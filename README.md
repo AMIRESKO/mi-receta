@@ -1,3 +1,17 @@
+# Comandos basicos de git 
+
+0. Usar un git status
+```
+git status  
+```
+FLUJO ACP
+1. add  => Confirmar los cambios
+```
+git add  TU_ARCHIVO
+
+git add .     => Agregar todos los archivos
+```
+
 # Pasta rica y económica
 ## Ingredientes
 - 250 gr la pasta
